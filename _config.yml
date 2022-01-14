@@ -52,7 +52,7 @@ author:
   #   My awesome biography constrained to a sentence or two goes here.
   #   But I can make new line
   links:
-    - label: "Website"
+    - label: "Website!"
       icon: "fas fa-fw fa-link"
       url: "https://vikkanaev.github.io/"
     - label: "VikKanaev"
