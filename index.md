@@ -12,7 +12,3 @@ author_profile: true
 
   Greeter.new.(name: 'World')
 ```
-
-- Первая крутая мысль
-- Вторая
-- И еще акая-то
